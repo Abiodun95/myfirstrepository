@@ -1,0 +1,6 @@
+HTML = HYPERTEXT MARKUP LANGUAGE
+ ---- BOILERPLATE CODE = minimum code required to start creating a website
+ ---- heading tags (h1,h2,h3,h4,h5,h6)
+ -----paragraph tags p
+ ----image tag img
+CSS = CASCADING STYLE SHEETS

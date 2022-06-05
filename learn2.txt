@@ -1,0 +1,4 @@
+Version control, also known as source control, 
+is the process of  tracking and managing changes to files 
+over time. VCS — version control systems — are software tools 
+designed to help teams work in parallel.

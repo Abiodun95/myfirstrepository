@@ -1,0 +1,3 @@
+cd = change directory
+ls = list all files and folders inside a directory
+code . = to open the directory with vscode
